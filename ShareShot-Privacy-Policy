@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    
+<h1>ShareShot Privacy Policy</h1>
+<p>
+This is the developer's policy which is created to give details and informs you if your
+personal information is collected, used, disclosed and secured by the developer. These
+policies are stated to ensure you know what personal details you may or may not
+disclose when the software is being utilized and the choices you have associated with
+that data. If you decide to continue using this software, it means you accept all terms
+and conditions stated by the developer in this policy.
+</p>
+
+<h1>Permission and Access</h1>
+<p>
+ShareShot software requires some permissions to function effectively and efficiently.
+Without some of these permissions enabled, you might be unable to perform certain
+operations with the software. ShareShot requires the enablement of the following
+permissions;
+<p>
+● camera<br>
+● location<br>
+● storage<br>
+</p>
+<p>
+The main permission required to get ShareShot functioning is the storage
+permission, the rest permission are sometimes required to perform some
+operations but they are optional and can be enabled and disabled anytime at will
+when not in use.
+</p>
+<p>
+ShareShot have some other capabilities which are functions the software can remotely
+effect on its own.
+</p>
+<p>
+● view wifi connections: This capability allows the app to view information about
+wifi networking such as whether wifi is enabled and the name of connected wifi
+devices.<br>
+● connect and disconnect from wifi: This allows the app to connect and disconnect
+from wifi access points and to make changes to the device configuration for wifi
+networks.<br>
+● change network connectivity: This is the capability of the app to change the state
+of network connectivity.<br>
+● have full network access: The app is capable of creating network sockets and
+can use customized network protocols. This capability does not require the
+software to send data to the internet.<br>
+● view network connections: This is the capability of the app to view information
+about network connections such as which networks exist and are connected.<br>
+● Camera access: We use camera to scan qr code in order to connect devices.
+</p>
+</p>
+
+<h1>Information and data collection</h1>
+<p>
+The developer does not externally collect any information or data when the services of
+ShareShot are utilized. When performing some activities with the software, personal
+data is not collected by developer . All the information are locally stored on your device.
+</p>
+
+<h1>Changes To This Privacy Policy</h1>
+<p>
+The developer may update this policy as there will be further development of the
+software and these developments will likely not be consistent with some statements and
+terms contained in this current policy. It is advisable to check this policy periodically for
+any changes. Changes to this Privacy Policy are effective when they are made on this
+document.
+</p>
+
+<h1>
+Disclaimer
+</h1>
+
+<p>
+The operations of ShareShot is basically for file sharing which is a daily activity. During
+this process, there's a high probability that personal data contained in some files might
+be shared with a paired client which might lead to security breaches and you may
+encounter loss and damages. The developer will not be held accountable for how you
+decide to use this software and for contents you decide to share with a paired party and
+will not be liable for any losses and/or damages in connection with the use of the
+software.
+</p>
+
+<h1>
+About Us
+</h1>
+<p>
+ShareShot is a project developed by an individual developer under “QByteCore
+Technology”.
+</p>
+
+<h1>
+Contact Us
+</h1>
+<p>
+If you have any questions regarding this Privacy Policy or the practices of this software,
+please contact us by sending an email to qbytecore@gmail.com .
+</p>
+</body>
+</html>
